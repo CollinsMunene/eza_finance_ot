@@ -1,7 +1,7 @@
 {
-  "name": "EZA FINANCE OPERATOR OLD TEST",
+  "name": "EZA FINANCE OPERATOR TEST",
   "website": "https://eza.finance",
-  "description": "This is old",
-  "logo": "https://holesky-operator-metadata.s3.amazonaws.com/eigenlayer.png",
+  "description": "This is the Holesky Eza Finance Test Operator",
+  "logo": "https://eza.finance/images/eza%20png.png",
   "twitter": "https://twitter.com/HillaryCollns"
 }
